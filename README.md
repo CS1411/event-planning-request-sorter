@@ -179,6 +179,8 @@ The tests need no fine-tuned model: they use a tiny random GPT-2 built on the sp
 
 This project was built with AI assistance (Claude) in a working session with the repository owner, who chose the topic and directed the work. It is not hand-written code. The commits were made after the code was finished, so their dates show when the files were committed, not how long each milestone took. The numbers in this README were produced by running this code, not copied from the course page.
 
+The milestone commits are not clean. While the history was being assembled, the first commit (`5536e4d`, "Milestone 1") accidentally picked up every file in the working folder, so it contains the whole project, and its GitHub Actions run failed. The next commit (`68db8d7`, "Milestone 2") then removed the files of the later milestones, and commits `048e8ff`, `1c4d5d9` and `f369e75` added them back. The history was not rewritten. The final state (`a4ae9bf`) is the complete project and passes CI; the milestone boundaries in the log should not be trusted.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

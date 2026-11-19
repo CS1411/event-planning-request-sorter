@@ -10,3 +10,8 @@ __pycache__/
 # Local data
 data/
 *.db
+
+# Fine-tuned weights (about 330 MB) and Trainer scratch output
+model/
+runs/
+requests.txt

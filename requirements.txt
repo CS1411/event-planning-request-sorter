@@ -1,5 +1,6 @@
-httpx
-pytest
-datasets
-transformers
-torch
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0
+transformers==5.23.0
+accelerate==1.16.0
+numpy==2.4.6
+pytest==9.2.0

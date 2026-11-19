@@ -1,0 +1,704 @@
+{"text": "Hi, who is my event coordinator and how can I reach them? Please let me know", "label": "general", "template": 1}
+{"text": "Hi, We need to keep the total under $8,500. Can you adjust the proposal? Thanks!", "label": "quote", "template": 10}
+{"text": "Good morning, Please change our dinner choice to a family-style menu for the conference. Looking forward to your reply.", "label": "catering", "template": 10}
+{"text": "I need a location near the city centre for a birthday party of about 82 people. Please let me know.", "label": "venue", "template": 8}
+{"text": "Hi team, The venue needs to be ready a day earlier, can the date be changed?", "label": "schedule", "template": 12}
+{"text": "Is there a number I can call on the day of the event? Cheers,", "label": "general", "template": 9}
+{"text": "What deposit do you require, and when are payments due? Looking forward to your reply", "label": "quote", "template": 6}
+{"text": "Is a fireworks display or a laser show possible at the end of the night?", "label": "decor", "template": 12}
+{"text": "Are there any discounts for booking the anniversary dinner early or off-season", "label": "quote", "template": 5}
+{"text": "I forgot my login for the client portal. Who can help? Thanks!", "label": "general", "template": 5}
+{"text": "Hello there, What is the best way to contact the team outside office hours? Cheers,", "label": "general", "template": 12}
+{"text": "Hey, We're looking for a space that can hold 381 guests for our birthday party. What venues do you recommend? Thanks!", "label": "venue", "template": 1}
+{"text": "Hey, Can you arrange a welcome desk and parking for VIP guests?", "label": "guests", "template": 10}
+{"text": "is it possible to add a photo booth and balloon arch? please let me know.", "label": "decor", "template": 2}
+{"text": "Please change the setup time to the morning of 9 November.", "label": "schedule", "template": 5}
+{"text": "Hello there, I forgot my login for the client portal. Who can help?", "label": "general", "template": 5}
+{"text": "hey, do you have a venue available for a corporate retreat on new year's eve in seattle? cheers,", "label": "venue", "template": 0}
+{"text": "Hello, Is there an indoor backup option if it rains at the venue on the first weekend of October? Thanks!", "label": "venue", "template": 12}
+{"text": "Hi, Please update the schedule: the keynote now starts at 3pm. Looking forward to your reply.", "label": "schedule", "template": 9}
+{"text": "Hello there, Can we extend the baby shower until midnight instead of ending at 10pm? Thank you.", "label": "schedule", "template": 6}
+{"text": "Good morning, Because of the weather we'd like to postpone to the first weekend of October", "label": "schedule", "template": 10}
+{"text": "Hi team, Is the cost of tables and chairs included in your product launch price? Cheers,", "label": "quote", "template": 8}
+{"text": "Hello there, We need breakfast pastries and fruit delivered at 8am on New Year's Eve.", "label": "catering", "template": 12}
+{"text": "hello there, are there any rooms free on the 3rd of may for a small charity gala? cheers,", "label": "venue", "template": 9}
+{"text": "Hi team, Will there be a birthday cake service included with the corporate retreat menu?", "label": "catering", "template": 13}
+{"text": "We want a floral theme with white roses and greenery for the graduation party. Thank you.", "label": "decor", "template": 0}
+{"text": "does the hall include a stage, a projector and wi-fi for our charity gala?", "label": "venue", "template": 10}
+{"text": "Could you send a quote for a graduation party with 127 guests in Mumbai?", "label": "quote", "template": 0}
+{"text": "Hi team, Please update the schedule: the keynote now starts at 3pm. Looking forward to your reply", "label": "schedule", "template": 9}
+{"text": "Dear planner, How do I send invitations and collect RSVPs for the team offsite? Thank you.", "label": "guests", "template": 0}
+{"text": "how far in advance should we get in touch to plan a wedding?", "label": "general", "template": 4}
+{"text": "Hello, I need a location near the city centre for a wedding of about 56 people", "label": "venue", "template": 8}
+{"text": "Hello, We want to withdraw from the contract and receive a refund. Looking forward to your reply.", "label": "cancel", "template": 4}
+{"text": "Can we extend the wedding until midnight instead of ending at 10pm? Thank you.", "label": "schedule", "template": 6}
+{"text": "Good morning, I'm sorry, but we need to cancel the charity gala on 9 November.", "label": "cancel", "template": 0}
+{"text": "Hello there, Can we extend the corporate retreat until midnight instead of ending at 10pm? Looking forward to your reply.", "label": "schedule", "template": 6}
+{"text": "Hey, Is there any flexibility to move our conference to next month", "label": "schedule", "template": 13}
+{"text": "Could you cater a working lunch for 205 people on the first weekend of October? Cheers,", "label": "catering", "template": 9}
+{"text": "Can you set up a table plan so the families are seated together?", "label": "guests", "template": 13}
+{"text": "Please change our dinner choice to a family-style menu for the baby shower.", "label": "catering", "template": 10}
+{"text": "We're looking for a space that can hold 344 guests for our product launch. What venues do you recommend", "label": "venue", "template": 1}
+{"text": "Please change the setup time to the morning of the 3rd of May.", "label": "schedule", "template": 5}
+{"text": "Hello there, Please prepare name badges and a seating chart for the corporate retreat.", "label": "guests", "template": 4}
+{"text": "Hello there, Is the deposit refundable if the charity gala is called off by the council? Looking forward to your reply.", "label": "cancel", "template": 13}
+{"text": "good morning, are there any rooms free on saturday the 21st for a small wedding? cheers,", "label": "venue", "template": 9}
+{"text": "Hi team, How early can we get into the venue to set up for the product launch? Cheers,", "label": "venue", "template": 13}
+{"text": "hello, we'd like a magician or a children's entertainer for the afternoon. thanks!", "label": "decor", "template": 5}
+{"text": "Hi, Please cancel our booking and tell me how the refund works. Looking forward to your reply.", "label": "cancel", "template": 1}
+{"text": "Will there be a birthday cake service included with the anniversary dinner menu", "label": "catering", "template": 13}
+{"text": "Hello, Do you have a color scheme suggestion for a navy and gold charity gala? Looking forward to your reply.", "label": "decor", "template": 9}
+{"text": "Hi, How do I send invitations and collect RSVPs for the charity gala? Thanks!", "label": "guests", "template": 0}
+{"text": "Hi, We need to move the team offsite from 12 December to a later date. Thank you.", "label": "schedule", "template": 0}
+{"text": "Hello there, We'd like a magician or a children's entertainer for the afternoon. Thanks", "label": "decor", "template": 5}
+{"text": "Is the deposit refundable if the charity gala is called off by the council? Looking forward to your reply.", "label": "cancel", "template": 13}
+{"text": "Do you also organise events outside Lisbon? Thank you.", "label": "general", "template": 2}
+{"text": "Hello, Could you send a quote for a graduation party with 259 guests in Mumbai?", "label": "quote", "template": 0}
+{"text": "Hey, Could someone call me back to explain how your service works", "label": "general", "template": 10}
+{"text": "Hi team, Is the garden terrace available on late August, and what is its capacity? Looking forward to your reply.", "label": "venue", "template": 2}
+{"text": "Dear planner, Can we tour the venue before booking? We are planning a baby shower in Toronto. Cheers,", "label": "venue", "template": 4}
+{"text": "We need to move the birthday party from New Year's Eve to a later date. Thank you.", "label": "schedule", "template": 0}
+{"text": "Hello, Our company has cancelled the retreat, so I need a refund of the deposit. Please let me know.", "label": "cancel", "template": 9}
+{"text": "Hello, We need breakfast pastries and fruit delivered at 8am on late August. Looking forward to your reply.", "label": "catering", "template": 12}
+{"text": "Hello, How do I send invitations and collect RSVPs for the birthday party? Please let me know.", "label": "guests", "template": 0}
+{"text": "can we push the start time back by two hours on 9 november? thanks!", "label": "schedule", "template": 1}
+{"text": "Dear planner, Do you have a brochure or website I can look at? Thank you.", "label": "general", "template": 6}
+{"text": "Hi team, Can we set up a check-in desk and a guest list for arrivals", "label": "guests", "template": 6}
+{"text": "Hello, We'd like a price estimate before we sign anything for the graduation party.", "label": "quote", "template": 4}
+{"text": "Dear planner, How do I send invitations and collect RSVPs for the wedding? Cheers,", "label": "guests", "template": 0}
+{"text": "We would like a buffet menu for 363 guests at our product launch. Please let me know.", "label": "catering", "template": 0}
+{"text": "Hello there, We want to withdraw from the contract and receive a refund.", "label": "cancel", "template": 4}
+{"text": "Hi, Please terminate the reservation for the last Friday of the month and confirm in writing. Cheers,", "label": "cancel", "template": 8}
+{"text": "Hi, I'd like to order canapes and drinks for a cocktail hour for 141 guests. Looking forward to your reply.", "label": "catering", "template": 6}
+{"text": "Dear planner, We need to keep the total under 50,000 rupees. Can you adjust the proposal?", "label": "quote", "template": 10}
+{"text": "Hello, Because of the weather we'd like to postpone to late August. Cheers,", "label": "schedule", "template": 10}
+{"text": "Hey, Are you hiring event staff this season", "label": "general", "template": 8}
+{"text": "Hi team, Does your quote include service charge and taxes? Thank you.", "label": "quote", "template": 12}
+{"text": "hello, please update the schedule: the keynote now starts at 3pm.", "label": "schedule", "template": 9}
+{"text": "hello, can you compare the cheapest and premium options for 189 people?", "label": "quote", "template": 9}
+{"text": "Dear planner, Can we tour the venue before booking? We are planning a team offsite in Austin. Looking forward to your reply.", "label": "venue", "template": 4}
+{"text": "Good morning, Can we set up a check-in desk and a guest list for arrivals?", "label": "guests", "template": 6}
+{"text": "Hey, Could you resend the proposal with updated numbers for 153 guests? Looking forward to your reply", "label": "quote", "template": 13}
+{"text": "Hi team, The venue needs to be ready a day earlier, can the date be changed? Looking forward to your reply.", "label": "schedule", "template": 12}
+{"text": "Hello, Do you have a venue available for a birthday party on late August in Cape Town? Cheers,", "label": "venue", "template": 0}
+{"text": "Hi team, We need breakfast pastries and fruit delivered at 8am on the 3rd of May. Please let me know.", "label": "catering", "template": 12}
+{"text": "Hello, Cancel my booking, please. I was charged twice and want the extra payment returned. Please let me know.", "label": "cancel", "template": 12}
+{"text": "Our budget is around 10,000 euros. What can we get for that?", "label": "quote", "template": 1}
+{"text": "Hello, Could you resend the proposal with updated numbers for 239 guests?", "label": "quote", "template": 13}
+{"text": "What deposit do you require, and when are payments due?", "label": "quote", "template": 6}
+{"text": "Hi, What is the best way to contact the team outside office hours?", "label": "general", "template": 12}
+{"text": "Good morning, Do you have a color scheme suggestion for a navy and gold product launch? Thanks!", "label": "decor", "template": 9}
+{"text": "Good morning, Is the garden terrace available on next March, and what is its capacity? Please let me know.", "label": "venue", "template": 2}
+{"text": "Hello there, Does the venue have parking and step-free access for 151 attendees? Thank you.", "label": "venue", "template": 6}
+{"text": "Hi, I'd like to cancel the catering order and get my money back. Looking forward to your reply.", "label": "cancel", "template": 6}
+{"text": "Hi, Please prepare name badges and a seating chart for the wedding. Cheers,", "label": "guests", "template": 4}
+{"text": "Hi, Can you arrange a welcome desk and parking for VIP guests?", "label": "guests", "template": 10}
+{"text": "Good morning, Please change our dinner choice to a family-style menu for the anniversary dinner.", "label": "catering", "template": 10}
+{"text": "Hello there, Could you resend the proposal with updated numbers for 315 guests?", "label": "quote", "template": 13}
+{"text": "Hello, Our dates have changed. Are you free on 9 November instead? Cheers,", "label": "schedule", "template": 4}
+{"text": "Hi, Can we arrange a tasting of the menu before the conference on next March? Cheers,", "label": "catering", "template": 5}
+{"text": "Hello, Can we set up a check-in desk and a guest list for arrivals? Thanks!", "label": "guests", "template": 6}
+{"text": "Hi, Can the caterer provide vegetarian and vegan options for the product launch? Please let me know.", "label": "catering", "template": 1}
+{"text": "Hi, Is the deposit refundable if the product launch is called off by the council? Please let me know.", "label": "cancel", "template": 13}
+{"text": "Hi, I want candles, string lights and centrepieces on every table.", "label": "decor", "template": 8}
+{"text": "hey, could someone call me back to explain how your service works? looking forward to your reply.", "label": "general", "template": 10}
+{"text": "hello, will there be a birthday cake service included with the wedding menu?", "label": "catering", "template": 13}
+{"text": "I need a location near the city centre for a conference of about 303 people.", "label": "venue", "template": 8}
+{"text": "Dear planner, Is the deposit refundable if the product launch is called off by the council?", "label": "cancel", "template": 13}
+{"text": "Hi team, Do you offer a plated three-course dinner for 148 people? Thanks!", "label": "catering", "template": 2}
+{"text": "Good morning, Can you compare the cheapest and premium options for 127 people? Thanks!", "label": "quote", "template": 9}
+{"text": "hi, how far in advance should we get in touch to plan a wedding? looking forward to your reply.", "label": "general", "template": 4}
+{"text": "Hi, Are there any discounts for booking the baby shower early or off-season? Please let me know.", "label": "quote", "template": 5}
+{"text": "hello there, could you cater a working lunch for 331 people on late august? thank you.", "label": "catering", "template": 9}
+{"text": "Several guests have shellfish allergies. What can the kitchen do? Looking forward to your reply.", "label": "catering", "template": 4}
+{"text": "Hi team, Can you set up a table plan so the families are seated together? Thank you.", "label": "guests", "template": 13}
+{"text": "Hello there, The venue needs to be ready a day earlier, can the date be changed? Please let me know.", "label": "schedule", "template": 12}
+{"text": "Good morning, Are there any discounts for booking the charity gala early or off-season? Thanks!", "label": "quote", "template": 5}
+{"text": "What is the best way to contact the team outside office hours? Cheers,", "label": "general", "template": 12}
+{"text": "Hi team, Can you tell me more about what an event planner actually does? Thanks!", "label": "general", "template": 13}
+{"text": "Hey, Can the caterer provide vegetarian and vegan options for the graduation party? Cheers,", "label": "catering", "template": 1}
+{"text": "Hello there, Because of the weather we'd like to postpone to June 14. Thanks!", "label": "schedule", "template": 10}
+{"text": "Hey, Several guests have egg allergies. What can the kitchen do? Looking forward to your reply.", "label": "catering", "template": 4}
+{"text": "Hey, Our company has cancelled the retreat, so I need a refund of the deposit.", "label": "cancel", "template": 9}
+{"text": "Can you cancel the DJ and the photographer and refund the fees? Thank you.", "label": "cancel", "template": 10}
+{"text": "Hi team, Due to an emergency, the wedding will not go ahead. Please cancel everything. Cheers,", "label": "cancel", "template": 5}
+{"text": "Hey, Please change our dinner choice to a family-style menu for the graduation party. Please let me know.", "label": "catering", "template": 10}
+{"text": "I need a location near the city centre for a birthday party of about 382 people. Thanks!", "label": "venue", "template": 8}
+{"text": "Hey, Please add a dance floor and mood lighting for the graduation party. Thanks!", "label": "decor", "template": 13}
+{"text": "Can we tour the venue before booking? We are planning a baby shower in Cape Town.", "label": "venue", "template": 4}
+{"text": "Hey, What decoration packages do you have for a graduation party with a rustic theme? Thank you.", "label": "decor", "template": 4}
+{"text": "Can we swap the Saturday booking for a Friday evening? Cheers,", "label": "schedule", "template": 8}
+{"text": "Hey, What decoration packages do you have for a team offsite with a rustic theme?", "label": "decor", "template": 4}
+{"text": "Hello there, Do you have a color scheme suggestion for a navy and gold baby shower? Thanks!", "label": "decor", "template": 9}
+{"text": "Dear planner, Hi, who is my event coordinator and how can I reach them?", "label": "general", "template": 1}
+{"text": "Hi team, Can you arrange a welcome desk and parking for VIP guests", "label": "guests", "template": 10}
+{"text": "Hey, Does the hall include a stage, a projector and Wi-Fi for our conference? Please let me know.", "label": "venue", "template": 10}
+{"text": "What decoration packages do you have for a baby shower with a rustic theme? Looking forward to your reply.", "label": "decor", "template": 4}
+{"text": "Hello there, We'd like a magician or a children's entertainer for the afternoon. Cheers,", "label": "decor", "template": 5}
+{"text": "Hi team, Is a fireworks display or a laser show possible at the end of the night?", "label": "decor", "template": 12}
+{"text": "hi team, is a fireworks display or a laser show possible at the end of the night? thank you.", "label": "decor", "template": 12}
+{"text": "Will there be a birthday cake service included with the corporate retreat menu? Looking forward to your reply.", "label": "catering", "template": 13}
+{"text": "Good morning, Can we arrange a tasting of the menu before the birthday party on June 14? Thank you.", "label": "catering", "template": 5}
+{"text": "Good morning, What are your office opening hours? Cheers,", "label": "general", "template": 0}
+{"text": "Can we get our deposit back if we call off the corporate retreat? Thanks!", "label": "cancel", "template": 2}
+{"text": "We need to move the graduation party from 12 December to a later date. Looking forward to your reply.", "label": "schedule", "template": 0}
+{"text": "Could you resend the proposal with updated numbers for 323 guests?", "label": "quote", "template": 13}
+{"text": "Two guests cannot attend anymore, please update the headcount to 66. Thanks!", "label": "guests", "template": 12}
+{"text": "Hi, I forgot my login for the client portal. Who can help? Please let me know.", "label": "general", "template": 5}
+{"text": "Hi, Is there a number I can call on the day of the event? Please let me know.", "label": "general", "template": 9}
+{"text": "Hey, Are there any rooms free on 12 December for a small baby shower?", "label": "venue", "template": 9}
+{"text": "Good morning, Please prepare name badges and a seating chart for the conference. Please let me know.", "label": "guests", "template": 4}
+{"text": "Good morning, Some guests are flying in on 9 November. Can you book hotel rooms for them? Please let me know.", "label": "guests", "template": 5}
+{"text": "Hello, Does the hall include a stage, a projector and Wi-Fi for our charity gala?", "label": "venue", "template": 10}
+{"text": "Hi team, Is there an indoor backup option if it rains at the venue on the last Friday of the month?", "label": "venue", "template": 12}
+{"text": "Hey, Three more guests have confirmed, so we now expect 319 people. Cheers,", "label": "guests", "template": 1}
+{"text": "Hi, Does the venue have parking and step-free access for 216 attendees?", "label": "venue", "template": 6}
+{"text": "Hello, Can the caterer provide vegetarian and vegan options for the anniversary dinner?", "label": "catering", "template": 1}
+{"text": "Good morning, The speakers are delayed, so can we shift the agenda by one day?", "label": "schedule", "template": 2}
+{"text": "Good morning, We need a microphone, a podium and background music during the awards.", "label": "decor", "template": 10}
+{"text": "good morning, can we swap the saturday booking for a friday evening? looking forward to your reply.", "label": "schedule", "template": 8}
+{"text": "Hello, Can we get our deposit back if we call off the baby shower? Cheers,", "label": "cancel", "template": 2}
+{"text": "Some guests are flying in on June 14. Can you book hotel rooms for them? Looking forward to your reply.", "label": "guests", "template": 5}
+{"text": "Do you have a color scheme suggestion for a navy and gold conference? Thank you", "label": "decor", "template": 9}
+{"text": "Hey, Could you cater a working lunch for 318 people on June 14?", "label": "catering", "template": 9}
+{"text": "Good morning, I'd like to cancel the catering order and get my money back. Cheers,", "label": "cancel", "template": 6}
+{"text": "Hi, Do you have a brochure or website I can look at?", "label": "general", "template": 6}
+{"text": "Hello, Can we get our deposit back if we call off the team offsite?", "label": "cancel", "template": 2}
+{"text": "hi, we need a microphone, a podium and background music during the awards.", "label": "decor", "template": 10}
+{"text": "Dear planner, How much does a full-service anniversary dinner package cost? Please let me know", "label": "quote", "template": 2}
+{"text": "Good morning, Can we tour the venue before booking? We are planning a corporate retreat in Toronto. Please let me know.", "label": "venue", "template": 4}
+{"text": "Hello, Can we arrange a tasting of the menu before the team offsite on the last Friday of the month? Cheers,", "label": "catering", "template": 5}
+{"text": "Hi, Due to an emergency, the birthday party will not go ahead. Please cancel everything. Please let me know.", "label": "cancel", "template": 5}
+{"text": "Do you also organise events outside Toronto?", "label": "general", "template": 2}
+{"text": "Dear planner, Cancel my booking, please. I was charged twice and want the extra payment returned. Thanks!", "label": "cancel", "template": 12}
+{"text": "Please send a reminder to everyone who hasn't replied yet.", "label": "guests", "template": 9}
+{"text": "Do you have a brochure or website I can look at? Looking forward to your reply.", "label": "general", "template": 6}
+{"text": "Please terminate the reservation for 9 November and confirm in writing.", "label": "cancel", "template": 8}
+{"text": "Good morning, Please send a reminder to everyone who hasn't replied yet", "label": "guests", "template": 9}
+{"text": "Good morning, We'd like a price estimate before we sign anything for the team offsite. Looking forward to your reply.", "label": "quote", "template": 4}
+{"text": "Good morning, How much does a full-service wedding package cost? Please let me know.", "label": "quote", "template": 2}
+{"text": "Are you hiring event staff this season?", "label": "general", "template": 8}
+{"text": "hello, i'd like to order canapes and drinks for a cocktail hour for 35 guests. looking forward to your reply.", "label": "catering", "template": 6}
+{"text": "Dear planner, Is it possible to add a photo booth and balloon arch? Thanks!", "label": "decor", "template": 2}
+{"text": "Hello there, Hi, who is my event coordinator and how can I reach them? Please let me know", "label": "general", "template": 1}
+{"text": "Hi, We need to keep the total under $5,000. Can you adjust the proposal? Looking forward to your reply.", "label": "quote", "template": 10}
+{"text": "Dear planner, Can you cancel the DJ and the photographer and refund the fees? Cheers,", "label": "cancel", "template": 10}
+{"text": "Hi team, I'm sorry, but we need to cancel the product launch on Saturday the 21st. Please let me know.", "label": "cancel", "template": 0}
+{"text": "Good morning, Is a fireworks display or a laser show possible at the end of the night?", "label": "decor", "template": 12}
+{"text": "Dear planner, What beverage packages do you offer, including a bar for the product launch? Please let me know.", "label": "catering", "template": 8}
+{"text": "Dear planner, Please cancel our booking and tell me how the refund works. Looking forward to your reply.", "label": "cancel", "template": 1}
+{"text": "hi team, can we swap the saturday booking for a friday evening? please let me know.", "label": "schedule", "template": 8}
+{"text": "Hey, Three more guests have confirmed, so we now expect 179 people. Thank you.", "label": "guests", "template": 1}
+{"text": "Hi, Can you compare the cheapest and premium options for 265 people? Please let me know.", "label": "quote", "template": 9}
+{"text": "We'd like a magician or a children's entertainer for the afternoon.", "label": "decor", "template": 5}
+{"text": "Hello there, Can the caterer provide vegetarian and vegan options for the wedding?", "label": "catering", "template": 1}
+{"text": "Good morning, Is the cost of tables and chairs included in your corporate retreat price? Cheers,", "label": "quote", "template": 8}
+{"text": "Hi team, How early can we get into the venue to set up for the corporate retreat? Please let me know.", "label": "venue", "template": 13}
+{"text": "dear planner, because of the weather we'd like to postpone to the last friday of the month.", "label": "schedule", "template": 10}
+{"text": "How far in advance should we get in touch to plan a birthday party? Looking forward to your reply.", "label": "general", "template": 4}
+{"text": "Hi, Two guests cannot attend anymore, please update the headcount to 23.", "label": "guests", "template": 12}
+{"text": "Dear planner, Can we push the start time back by two hours on 9 November?", "label": "schedule", "template": 1}
+{"text": "Hey, We need breakfast pastries and fruit delivered at 8am on the last Friday of the month.", "label": "catering", "template": 12}
+{"text": "Dear planner, Can you cancel the DJ and the photographer and refund the fees", "label": "cancel", "template": 10}
+{"text": "hello there, please add a dance floor and mood lighting for the anniversary dinner. thank you.", "label": "decor", "template": 13}
+{"text": "Hi team, Could you set up a projector and screen for our slideshow and video?", "label": "decor", "template": 6}
+{"text": "good morning, does the venue have parking and step-free access for 174 attendees? please let me know.", "label": "venue", "template": 6}
+{"text": "we need breakfast pastries and fruit delivered at 8am on the last friday of the month. thank you.", "label": "catering", "template": 12}
+{"text": "Hi team, Can we arrange a tasting of the menu before the baby shower on New Year's Eve", "label": "catering", "template": 5}
+{"text": "Two guests cannot attend anymore, please update the headcount to 321. Cheers,", "label": "guests", "template": 12}
+{"text": "Dear planner, Is the cost of tables and chairs included in your conference price? Please let me know.", "label": "quote", "template": 8}
+{"text": "Could someone call me back to explain how your service works? Please let me know.", "label": "general", "template": 10}
+{"text": "Hi, Please prepare name badges and a seating chart for the conference.", "label": "guests", "template": 4}
+{"text": "Hello there, Please add a dance floor and mood lighting for the conference. Cheers,", "label": "decor", "template": 13}
+{"text": "Hi team, Our budget is around $12,000. What can we get for that?", "label": "quote", "template": 1}
+{"text": "Can we extend the wedding until midnight instead of ending at 10pm?", "label": "schedule", "template": 6}
+{"text": "Do you have a brochure or website I can look at? Thanks", "label": "general", "template": 6}
+{"text": "Dear planner, Is there a number I can call on the day of the event? Thank you.", "label": "general", "template": 9}
+{"text": "Good morning, Can you compare the cheapest and premium options for 184 people?", "label": "quote", "template": 9}
+{"text": "Hello there, Can you set up a table plan so the families are seated together?", "label": "guests", "template": 13}
+{"text": "dear planner, can we arrange a tasting of the menu before the baby shower on the 3rd of may?", "label": "catering", "template": 5}
+{"text": "i need a location near the city centre for a corporate retreat of about 234 people. looking forward to your reply.", "label": "venue", "template": 8}
+{"text": "Hello, Is the cost of tables and chairs included in your graduation party price? Please let me know.", "label": "quote", "template": 8}
+{"text": "Good morning, Hi, who is my event coordinator and how can I reach them?", "label": "general", "template": 1}
+{"text": "Hello, Is the garden terrace available on next March, and what is its capacity?", "label": "venue", "template": 2}
+{"text": "What is the best way to contact the team outside office hours?", "label": "general", "template": 12}
+{"text": "Hi team, How many guests can we add after the RSVP deadline? Thanks", "label": "guests", "template": 8}
+{"text": "I'm sorry, but we need to cancel the wedding on the first weekend of October.", "label": "cancel", "template": 0}
+{"text": "Hello there, I'd like to cancel the catering order and get my money back. Thank you.", "label": "cancel", "template": 6}
+{"text": "Hello, Do you have a venue available for a anniversary dinner on the first weekend of October in Toronto? Thank you.", "label": "venue", "template": 0}
+{"text": "Hello there, How many guests can we add after the RSVP deadline? Thanks!", "label": "guests", "template": 8}
+{"text": "is the garden terrace available on late august, and what is its capacity? thanks!", "label": "venue", "template": 2}
+{"text": "Hi team, I'm sorry, but we need to cancel the conference on New Year's Eve. Looking forward to your reply.", "label": "cancel", "template": 0}
+{"text": "Dear planner, Can we set up a check-in desk and a guest list for arrivals? Please let me know.", "label": "guests", "template": 6}
+{"text": "Hey, Is there a number I can call on the day of the event? Please let me know.", "label": "general", "template": 9}
+{"text": "Good morning, Please send a reminder to everyone who hasn't replied yet. Cheers,", "label": "guests", "template": 9}
+{"text": "Hello, Can you help arrange shuttle buses between the hotel and the venue for 379 guests?", "label": "guests", "template": 2}
+{"text": "Good morning, Can we get our deposit back if we call off the corporate retreat?", "label": "cancel", "template": 2}
+{"text": "The speakers are delayed, so can we shift the agenda by one day", "label": "schedule", "template": 2}
+{"text": "Hi, Cancel my booking, please. I was charged twice and want the extra payment returned. Looking forward to your reply.", "label": "cancel", "template": 12}
+{"text": "hello, cancel my booking, please. i was charged twice and want the extra payment returned. looking forward to your reply.", "label": "cancel", "template": 12}
+{"text": "Hey, Do you have a color scheme suggestion for a navy and gold charity gala? Thanks!", "label": "decor", "template": 9}
+{"text": "Hi team, I want candles, string lights and centrepieces on every table. Thank you.", "label": "decor", "template": 8}
+{"text": "Good morning, Do you offer a plated three-course dinner for 368 people? Thanks!", "label": "catering", "template": 2}
+{"text": "Are you hiring event staff this season? Please let me know.", "label": "general", "template": 8}
+{"text": "Hi, Three more guests have confirmed, so we now expect 203 people. Please let me know.", "label": "guests", "template": 1}
+{"text": "Hi team, What is the best way to contact the team outside office hours? Looking forward to your reply", "label": "general", "template": 12}
+{"text": "hello, can we set up a check-in desk and a guest list for arrivals? thank you.", "label": "guests", "template": 6}
+{"text": "Hey, How far in advance should we get in touch to plan a product launch? Cheers,", "label": "general", "template": 4}
+{"text": "Dear planner, Can you set up a table plan so the families are seated together?", "label": "guests", "template": 13}
+{"text": "Hello there, Is the deposit refundable if the baby shower is called off by the council? Thanks!", "label": "cancel", "template": 13}
+{"text": "Good morning, Is there a number I can call on the day of the event? Thank you.", "label": "general", "template": 9}
+{"text": "Hello, Do you have a venue available for a baby shower on Saturday the 21st in Denver? Thanks!", "label": "venue", "template": 0}
+{"text": "Hi, Does your quote include service charge and taxes? Thanks!", "label": "quote", "template": 12}
+{"text": "How early can we get into the venue to set up for the conference", "label": "venue", "template": 13}
+{"text": "How do I send invitations and collect RSVPs for the graduation party? Thanks!", "label": "guests", "template": 0}
+{"text": "Hi team, We need breakfast pastries and fruit delivered at 8am on next March. Thanks!", "label": "catering", "template": 12}
+{"text": "Hi, Can we extend the anniversary dinner until midnight instead of ending at 10pm?", "label": "schedule", "template": 6}
+{"text": "we need to move the graduation party from june 14 to a later date.", "label": "schedule", "template": 0}
+{"text": "Which venues in Lisbon allow outdoor ceremonies for a product launch? Thanks!", "label": "venue", "template": 5}
+{"text": "hi team, how much does a full-service birthday party package cost? cheers,", "label": "quote", "template": 2}
+{"text": "Hello, What is the best way to contact the team outside office hours? Please let me know.", "label": "general", "template": 12}
+{"text": "hey, can we swap the saturday booking for a friday evening? please let me know.", "label": "schedule", "template": 8}
+{"text": "Good morning, Is there any flexibility to move our anniversary dinner to next month?", "label": "schedule", "template": 13}
+{"text": "Dear planner, Do you have a brochure or website I can look at? Please let me know.", "label": "general", "template": 6}
+{"text": "Hi, Can you cancel the DJ and the photographer and refund the fees?", "label": "cancel", "template": 10}
+{"text": "Hello, Can you tell me more about what an event planner actually does?", "label": "general", "template": 13}
+{"text": "Hi team, We'd like a magician or a children's entertainer for the afternoon. Please let me know.", "label": "decor", "template": 5}
+{"text": "Hey, What is the best way to contact the team outside office hours? Cheers,", "label": "general", "template": 12}
+{"text": "Hello, Due to an emergency, the anniversary dinner will not go ahead. Please cancel everything. Thanks!", "label": "cancel", "template": 5}
+{"text": "hi, our company has cancelled the retreat, so i need a refund of the deposit. looking forward to your reply.", "label": "cancel", "template": 9}
+{"text": "Hi team, Please cancel our booking and tell me how the refund works. Cheers,", "label": "cancel", "template": 1}
+{"text": "Hello, Will there be a birthday cake service included with the wedding menu? Looking forward to your reply.", "label": "catering", "template": 13}
+{"text": "hey, could you send a quote for a corporate retreat with 178 guests in seattle?", "label": "quote", "template": 0}
+{"text": "Hi team, We'd like a magician or a children's entertainer for the afternoon. Thanks", "label": "decor", "template": 5}
+{"text": "Is there an indoor backup option if it rains at the venue on the 3rd of May? Looking forward to your reply.", "label": "venue", "template": 12}
+{"text": "Hey, How do I send invitations and collect RSVPs for the product launch?", "label": "guests", "template": 0}
+{"text": "Can we tour the venue before booking? We are planning a baby shower in Lisbon. Thank you.", "label": "venue", "template": 4}
+{"text": "Hello there, Is the deposit refundable if the wedding is called off by the council?", "label": "cancel", "template": 13}
+{"text": "hey, our dates have changed. are you free on new year's eve instead? cheers,", "label": "schedule", "template": 4}
+{"text": "Good morning, Can you set up a table plan so the families are seated together? Cheers,", "label": "guests", "template": 13}
+{"text": "Can you compare the cheapest and premium options for 132 people?", "label": "quote", "template": 9}
+{"text": "Hello there, Can you tell me more about what an event planner actually does? Thank you", "label": "general", "template": 13}
+{"text": "Hello, Please change our dinner choice to a family-style menu for the team offsite.", "label": "catering", "template": 10}
+{"text": "Hello there, Can the caterer provide vegetarian and vegan options for the team offsite?", "label": "catering", "template": 1}
+{"text": "Hello, Does the hall include a stage, a projector and Wi-Fi for our wedding?", "label": "venue", "template": 10}
+{"text": "Hi team, I need a location near the city centre for a charity gala of about 95 people. Thanks!", "label": "venue", "template": 8}
+{"text": "Good morning, We want to withdraw from the contract and receive a refund. Thank you.", "label": "cancel", "template": 4}
+{"text": "Hi team, We'd like a price estimate before we sign anything for the anniversary dinner. Please let me know.", "label": "quote", "template": 4}
+{"text": "Hey, Please send a reminder to everyone who hasn't replied yet. Thank you.", "label": "guests", "template": 9}
+{"text": "hello there, how early can we get into the venue to set up for the corporate retreat? looking forward to your reply.", "label": "venue", "template": 13}
+{"text": "Hi team, Please update the schedule: the keynote now starts at 3pm. Please let me know.", "label": "schedule", "template": 9}
+{"text": "Dear planner, Can we set up a check-in desk and a guest list for arrivals? Looking forward to your reply.", "label": "guests", "template": 6}
+{"text": "Hello there, Some guests are flying in on the last Friday of the month. Can you book hotel rooms for them? Thank you.", "label": "guests", "template": 5}
+{"text": "Hi, Please update the schedule: the keynote now starts at 3pm. Cheers,", "label": "schedule", "template": 9}
+{"text": "Good morning, Is it possible to add a photo booth and balloon arch?", "label": "decor", "template": 2}
+{"text": "Good morning, Could you send a quote for a conference with 234 guests in Austin?", "label": "quote", "template": 0}
+{"text": "Hi, How much does a full-service baby shower package cost? Thank you.", "label": "quote", "template": 2}
+{"text": "Are there any rooms free on the last Friday of the month for a small conference?", "label": "venue", "template": 9}
+{"text": "Hello, Our budget is around $8,500. What can we get for that?", "label": "quote", "template": 1}
+{"text": "Hello, Some guests are flying in on June 14. Can you book hotel rooms for them", "label": "guests", "template": 5}
+{"text": "Good morning, Can you cancel the DJ and the photographer and refund the fees? Thank you.", "label": "cancel", "template": 10}
+{"text": "Hello there, Some guests are flying in on Saturday the 21st. Can you book hotel rooms for them?", "label": "guests", "template": 5}
+{"text": "Hi team, Please prepare name badges and a seating chart for the conference. Looking forward to your reply.", "label": "guests", "template": 4}
+{"text": "Dear planner, Will there be a birthday cake service included with the anniversary dinner menu? Thanks!", "label": "catering", "template": 13}
+{"text": "Good morning, Can you cancel the DJ and the photographer and refund the fees?", "label": "cancel", "template": 10}
+{"text": "Please terminate the reservation for Saturday the 21st and confirm in writing.", "label": "cancel", "template": 8}
+{"text": "Hi, Do you have a color scheme suggestion for a navy and gold graduation party?", "label": "decor", "template": 9}
+{"text": "Hello there, I'd like to order canapes and drinks for a cocktail hour for 188 guests.", "label": "catering", "template": 6}
+{"text": "Good morning, What deposit do you require, and when are payments due?", "label": "quote", "template": 6}
+{"text": "Dear planner, Our budget is around 50,000 rupees. What can we get for that? Please let me know", "label": "quote", "template": 1}
+{"text": "Dear planner, Can you help arrange shuttle buses between the hotel and the venue for 103 guests? Please let me know.", "label": "guests", "template": 2}
+{"text": "Good morning, Is there any flexibility to move our charity gala to next month? Cheers,", "label": "schedule", "template": 13}
+{"text": "Hi, What are your office opening hours? Cheers,", "label": "general", "template": 0}
+{"text": "What are your office opening hours?", "label": "general", "template": 0}
+{"text": "Hello there, I want candles, string lights and centrepieces on every table. Thanks!", "label": "decor", "template": 8}
+{"text": "Hello there, We need to move the charity gala from the last Friday of the month to a later date. Please let me know.", "label": "schedule", "template": 0}
+{"text": "Hello, I'd like to cancel the catering order and get my money back.", "label": "cancel", "template": 6}
+{"text": "Hello, We want a floral theme with white roses and greenery for the conference.", "label": "decor", "template": 0}
+{"text": "Hi, What beverage packages do you offer, including a bar for the baby shower? Please let me know.", "label": "catering", "template": 8}
+{"text": "Hello, Please cancel our booking and tell me how the refund works. Please let me know.", "label": "cancel", "template": 1}
+{"text": "Dear planner, Which venues in Bangalore allow outdoor ceremonies for a conference? Please let me know.", "label": "venue", "template": 5}
+{"text": "The venue needs to be ready a day earlier, can the date be changed? Thank you", "label": "schedule", "template": 12}
+{"text": "Dear planner, We need a microphone, a podium and background music during the awards.", "label": "decor", "template": 10}
+{"text": "Hi, The speakers are delayed, so can we shift the agenda by one day? Looking forward to your reply.", "label": "schedule", "template": 2}
+{"text": "several guests have egg allergies. what can the kitchen do? thank you.", "label": "catering", "template": 4}
+{"text": "Hello there, Please terminate the reservation for Saturday the 21st and confirm in writing.", "label": "cancel", "template": 8}
+{"text": "Hello there, Several guests have dairy allergies. What can the kitchen do?", "label": "catering", "template": 4}
+{"text": "Dear planner, Our budget is around 10,000 euros. What can we get for that?", "label": "quote", "template": 1}
+{"text": "Dear planner, Due to an emergency, the graduation party will not go ahead. Please cancel everything.", "label": "cancel", "template": 5}
+{"text": "Hey, What beverage packages do you offer, including a bar for the team offsite", "label": "catering", "template": 8}
+{"text": "Hey, What decoration packages do you have for a team offsite with a rustic theme? Please let me know", "label": "decor", "template": 4}
+{"text": "Hello, Could you resend the proposal with updated numbers for 101 guests?", "label": "quote", "template": 13}
+{"text": "I forgot my login for the client portal. Who can help?", "label": "general", "template": 5}
+{"text": "Could you set up a projector and screen for our slideshow and video? Thank you.", "label": "decor", "template": 6}
+{"text": "Hey, Do you offer a plated three-course dinner for 37 people? Thank you.", "label": "catering", "template": 2}
+{"text": "Hey, Are there any discounts for booking the corporate retreat early or off-season? Looking forward to your reply.", "label": "quote", "template": 5}
+{"text": "can you help arrange shuttle buses between the hotel and the venue for 375 guests? looking forward to your reply.", "label": "guests", "template": 2}
+{"text": "hi team, several guests have egg allergies. what can the kitchen do?", "label": "catering", "template": 4}
+{"text": "hello, are you hiring event staff this season? thank you.", "label": "general", "template": 8}
+{"text": "hi, can we swap the saturday booking for a friday evening? looking forward to your reply.", "label": "schedule", "template": 8}
+{"text": "Hey, I forgot my login for the client portal. Who can help? Thanks!", "label": "general", "template": 5}
+{"text": "Hello there, Could you cater a working lunch for 245 people on next March?", "label": "catering", "template": 9}
+{"text": "hi, can you compare the cheapest and premium options for 42 people? cheers,", "label": "quote", "template": 9}
+{"text": "Please prepare name badges and a seating chart for the birthday party. Thank you.", "label": "guests", "template": 4}
+{"text": "Do you have a brochure or website I can look at? Thanks!", "label": "general", "template": 6}
+{"text": "Hi, I'd like to order canapes and drinks for a cocktail hour for 20 guests", "label": "catering", "template": 6}
+{"text": "Do you offer a plated three-course dinner for 98 people?", "label": "catering", "template": 2}
+{"text": "Hi, Can you arrange a welcome desk and parking for VIP guests? Please let me know.", "label": "guests", "template": 10}
+{"text": "Hello there, Because of the weather we'd like to postpone to next March. Please let me know.", "label": "schedule", "template": 10}
+{"text": "is there an indoor backup option if it rains at the venue on new year's eve?", "label": "venue", "template": 12}
+{"text": "hi, please change our dinner choice to a family-style menu for the baby shower. thanks!", "label": "catering", "template": 10}
+{"text": "Hey, Can you arrange a welcome desk and parking for VIP guests? Looking forward to your reply.", "label": "guests", "template": 10}
+{"text": "Hello, Two guests cannot attend anymore, please update the headcount to 191. Thanks!", "label": "guests", "template": 12}
+{"text": "Can we push the start time back by two hours on Saturday the 21st? Please let me know.", "label": "schedule", "template": 1}
+{"text": "Hello there, What deposit do you require, and when are payments due? Cheers,", "label": "quote", "template": 6}
+{"text": "The venue needs to be ready a day earlier, can the date be changed? Please let me know.", "label": "schedule", "template": 12}
+{"text": "Please update the schedule: the keynote now starts at 3pm. Thanks!", "label": "schedule", "template": 9}
+{"text": "Hello, Three more guests have confirmed, so we now expect 193 people. Thanks!", "label": "guests", "template": 1}
+{"text": "Hi team, Which venues in Denver allow outdoor ceremonies for a conference? Please let me know.", "label": "venue", "template": 5}
+{"text": "Dear planner, Hi, who is my event coordinator and how can I reach them? Please let me know.", "label": "general", "template": 1}
+{"text": "Hi team, Several guests have shellfish allergies. What can the kitchen do? Looking forward to your reply.", "label": "catering", "template": 4}
+{"text": "Hello there, Please add a dance floor and mood lighting for the team offsite.", "label": "decor", "template": 13}
+{"text": "Hello, I need a location near the city centre for a birthday party of about 208 people", "label": "venue", "template": 8}
+{"text": "Hello there, How many guests can we add after the RSVP deadline? Thank you.", "label": "guests", "template": 8}
+{"text": "Hi, We want a floral theme with white roses and greenery for the product launch. Please let me know.", "label": "decor", "template": 0}
+{"text": "do you also organise events outside austin? cheers,", "label": "general", "template": 2}
+{"text": "Is the garden terrace available on the last Friday of the month, and what is its capacity? Please let me know.", "label": "venue", "template": 2}
+{"text": "Good morning, We want to withdraw from the contract and receive a refund.", "label": "cancel", "template": 4}
+{"text": "Dear planner, Please add a dance floor and mood lighting for the corporate retreat. Thank you.", "label": "decor", "template": 13}
+{"text": "Hey, Do you also organise events outside Toronto? Thank you.", "label": "general", "template": 2}
+{"text": "Dear planner, Our dates have changed. Are you free on June 14 instead? Thank you.", "label": "schedule", "template": 4}
+{"text": "hi, can we tour the venue before booking? we are planning a corporate retreat in berlin. thank you.", "label": "venue", "template": 4}
+{"text": "Hello, Does your quote include service charge and taxes? Cheers,", "label": "quote", "template": 12}
+{"text": "Could you set up a projector and screen for our slideshow and video?", "label": "decor", "template": 6}
+{"text": "Hi, We want to withdraw from the contract and receive a refund. Cheers,", "label": "cancel", "template": 4}
+{"text": "Dear planner, Can you help arrange shuttle buses between the hotel and the venue for 197 guests? Cheers,", "label": "guests", "template": 2}
+{"text": "Hello, Can you help arrange shuttle buses between the hotel and the venue for 208 guests?", "label": "guests", "template": 2}
+{"text": "hello, can we extend the baby shower until midnight instead of ending at 10pm? thanks!", "label": "schedule", "template": 6}
+{"text": "Good morning, Is there a number I can call on the day of the event? Please let me know.", "label": "general", "template": 9}
+{"text": "Hi team, Could someone call me back to explain how your service works?", "label": "general", "template": 10}
+{"text": "Hey, Does the hall include a stage, a projector and Wi-Fi for our birthday party? Thank you.", "label": "venue", "template": 10}
+{"text": "Can we arrange a tasting of the menu before the wedding on the first weekend of October?", "label": "catering", "template": 5}
+{"text": "Hello, We're looking for a space that can hold 342 guests for our birthday party. What venues do you recommend?", "label": "venue", "template": 1}
+{"text": "hello there, does the hall include a stage, a projector and wi-fi for our wedding? cheers,", "label": "venue", "template": 10}
+{"text": "Hello there, Could you cater a working lunch for 261 people on late August? Looking forward to your reply.", "label": "catering", "template": 9}
+{"text": "Good morning, What beverage packages do you offer, including a bar for the team offsite?", "label": "catering", "template": 8}
+{"text": "Dear planner, What deposit do you require, and when are payments due? Thank you.", "label": "quote", "template": 6}
+{"text": "Hi, What deposit do you require, and when are payments due?", "label": "quote", "template": 6}
+{"text": "Dear planner, Is there a number I can call on the day of the event? Please let me know.", "label": "general", "template": 9}
+{"text": "Good morning, Please change our dinner choice to a family-style menu for the baby shower. Thank you.", "label": "catering", "template": 10}
+{"text": "Hi, Can we arrange a tasting of the menu before the wedding on late August? Please let me know.", "label": "catering", "template": 5}
+{"text": "Good morning, Several guests have gluten allergies. What can the kitchen do", "label": "catering", "template": 4}
+{"text": "Our budget is around $8,500. What can we get for that?", "label": "quote", "template": 1}
+{"text": "Hey, I'd like to cancel the catering order and get my money back.", "label": "cancel", "template": 6}
+{"text": "Hello, Can we arrange a tasting of the menu before the wedding on next March?", "label": "catering", "template": 5}
+{"text": "Hey, Are you hiring event staff this season? Please let me know.", "label": "general", "template": 8}
+{"text": "Could you resend the proposal with updated numbers for 273 guests?", "label": "quote", "template": 13}
+{"text": "Good morning, Our dates have changed. Are you free on the first weekend of October instead? Thank you.", "label": "schedule", "template": 4}
+{"text": "Good morning, The venue needs to be ready a day earlier, can the date be changed?", "label": "schedule", "template": 12}
+{"text": "Does your quote include service charge and taxes? Please let me know.", "label": "quote", "template": 12}
+{"text": "Hi, Can we get our deposit back if we call off the baby shower?", "label": "cancel", "template": 2}
+{"text": "Hi, Is the cost of tables and chairs included in your birthday party price? Please let me know.", "label": "quote", "template": 8}
+{"text": "Good morning, Please prepare name badges and a seating chart for the birthday party. Thanks!", "label": "guests", "template": 4}
+{"text": "Hi team, How much does a full-service anniversary dinner package cost?", "label": "quote", "template": 2}
+{"text": "hello there, can we push the start time back by two hours on next march? please let me know.", "label": "schedule", "template": 1}
+{"text": "Dear planner, Could you cater a working lunch for 279 people on 12 December?", "label": "catering", "template": 9}
+{"text": "Can you tell me more about what an event planner actually does? Please let me know.", "label": "general", "template": 13}
+{"text": "Hey, I'd like to cancel the catering order and get my money back. Thanks!", "label": "cancel", "template": 6}
+{"text": "could you set up a projector and screen for our slideshow and video? thank you.", "label": "decor", "template": 6}
+{"text": "The speakers are delayed, so can we shift the agenda by one day? Cheers,", "label": "schedule", "template": 2}
+{"text": "good morning, please change the setup time to the morning of the last friday of the month.", "label": "schedule", "template": 5}
+{"text": "Hello, Could you send a quote for a birthday party with 311 guests in Dublin?", "label": "quote", "template": 0}
+{"text": "Hello there, Does the venue have parking and step-free access for 326 attendees? Thanks!", "label": "venue", "template": 6}
+{"text": "Good morning, Cancel my booking, please. I was charged twice and want the extra payment returned. Looking forward to your reply.", "label": "cancel", "template": 12}
+{"text": "Hi, Is a fireworks display or a laser show possible at the end of the night? Please let me know.", "label": "decor", "template": 12}
+{"text": "Hello, Are there any discounts for booking the wedding early or off-season? Looking forward to your reply", "label": "quote", "template": 5}
+{"text": "Please update the schedule: the keynote now starts at 3pm.", "label": "schedule", "template": 9}
+{"text": "dear planner, are there any rooms free on 12 december for a small birthday party? cheers,", "label": "venue", "template": 9}
+{"text": "Dear planner, How do I send invitations and collect RSVPs for the conference? Thanks", "label": "guests", "template": 0}
+{"text": "hi, can you arrange a welcome desk and parking for vip guests?", "label": "guests", "template": 10}
+{"text": "What beverage packages do you offer, including a bar for the conference? Please let me know.", "label": "catering", "template": 8}
+{"text": "Good morning, Our dates have changed. Are you free on New Year's Eve instead? Thanks!", "label": "schedule", "template": 4}
+{"text": "Are there any discounts for booking the conference early or off-season?", "label": "quote", "template": 5}
+{"text": "Dear planner, We would like a buffet menu for 289 guests at our birthday party. Cheers,", "label": "catering", "template": 0}
+{"text": "Dear planner, Please change our dinner choice to a family-style menu for the baby shower. Please let me know.", "label": "catering", "template": 10}
+{"text": "What deposit do you require, and when are payments due? Cheers,", "label": "quote", "template": 6}
+{"text": "Dear planner, What decoration packages do you have for a team offsite with a rustic theme? Cheers,", "label": "decor", "template": 4}
+{"text": "Three more guests have confirmed, so we now expect 167 people.", "label": "guests", "template": 1}
+{"text": "Dear planner, Is it possible to add a photo booth and balloon arch? Thank you.", "label": "decor", "template": 2}
+{"text": "How many guests can we add after the RSVP deadline?", "label": "guests", "template": 8}
+{"text": "Hi, Please add a dance floor and mood lighting for the wedding. Looking forward to your reply.", "label": "decor", "template": 13}
+{"text": "Hello, We would like a buffet menu for 39 guests at our graduation party. Please let me know.", "label": "catering", "template": 0}
+{"text": "Hello, We'd like a price estimate before we sign anything for the charity gala. Looking forward to your reply.", "label": "quote", "template": 4}
+{"text": "Good morning, Can you set up a table plan so the families are seated together", "label": "guests", "template": 13}
+{"text": "good morning, we need a microphone, a podium and background music during the awards. please let me know.", "label": "decor", "template": 10}
+{"text": "Hi team, Are there any rooms free on late August for a small corporate retreat?", "label": "venue", "template": 9}
+{"text": "Please add a dance floor and mood lighting for the wedding.", "label": "decor", "template": 13}
+{"text": "Hello, How much does a full-service baby shower package cost?", "label": "quote", "template": 2}
+{"text": "Hello, Cancel my booking, please. I was charged twice and want the extra payment returned.", "label": "cancel", "template": 12}
+{"text": "Hi team, Our dates have changed. Are you free on next March instead? Cheers,", "label": "schedule", "template": 4}
+{"text": "Hello there, We need breakfast pastries and fruit delivered at 8am on Saturday the 21st.", "label": "catering", "template": 12}
+{"text": "hi team, we're looking for a space that can hold 81 guests for our product launch. what venues do you recommend?", "label": "venue", "template": 1}
+{"text": "Good morning, Please terminate the reservation for 12 December and confirm in writing. Thanks", "label": "cancel", "template": 8}
+{"text": "Hello, Are you hiring event staff this season? Thank you.", "label": "general", "template": 8}
+{"text": "Hi, Which venues in Denver allow outdoor ceremonies for a birthday party?", "label": "venue", "template": 5}
+{"text": "Hello there, Is there any flexibility to move our baby shower to next month? Cheers,", "label": "schedule", "template": 13}
+{"text": "Hello, We need to move the product launch from the 3rd of May to a later date. Looking forward to your reply.", "label": "schedule", "template": 0}
+{"text": "Hello, Does your quote include service charge and taxes?", "label": "quote", "template": 12}
+{"text": "Hi, We would like a buffet menu for 139 guests at our product launch. Cheers,", "label": "catering", "template": 0}
+{"text": "Hello there, Can we push the start time back by two hours on the 3rd of May? Cheers,", "label": "schedule", "template": 1}
+{"text": "Is it possible to add a photo booth and balloon arch? Thank you.", "label": "decor", "template": 2}
+{"text": "Can you book a DJ or a live band for the baby shower on June 14? Looking forward to your reply.", "label": "decor", "template": 1}
+{"text": "Is the cost of tables and chairs included in your anniversary dinner price? Thanks!", "label": "quote", "template": 8}
+{"text": "Dear planner, Please add a dance floor and mood lighting for the team offsite. Cheers,", "label": "decor", "template": 13}
+{"text": "Good morning, Could you set up a projector and screen for our slideshow and video?", "label": "decor", "template": 6}
+{"text": "Hi team, Can we extend the anniversary dinner until midnight instead of ending at 10pm? Thanks!", "label": "schedule", "template": 6}
+{"text": "Good morning, I want candles, string lights and centrepieces on every table. Please let me know.", "label": "decor", "template": 8}
+{"text": "Hello there, What beverage packages do you offer, including a bar for the wedding? Thank you.", "label": "catering", "template": 8}
+{"text": "Hi team, We'd like a price estimate before we sign anything for the charity gala. Please let me know.", "label": "quote", "template": 4}
+{"text": "How do I send invitations and collect RSVPs for the charity gala? Looking forward to your reply.", "label": "guests", "template": 0}
+{"text": "Hello there, Can you compare the cheapest and premium options for 234 people?", "label": "quote", "template": 9}
+{"text": "Hello, Can you book a DJ or a live band for the baby shower on the last Friday of the month?", "label": "decor", "template": 1}
+{"text": "Hello there, Do you have a venue available for a anniversary dinner on June 14 in Toronto?", "label": "venue", "template": 0}
+{"text": "Hey, How many guests can we add after the RSVP deadline? Cheers,", "label": "guests", "template": 8}
+{"text": "Good morning, We want a floral theme with white roses and greenery for the corporate retreat. Thanks!", "label": "decor", "template": 0}
+{"text": "Hello, We need to keep the total under 50,000 rupees. Can you adjust the proposal?", "label": "quote", "template": 10}
+{"text": "Good morning, Is it possible to add a photo booth and balloon arch? Thanks!", "label": "decor", "template": 2}
+{"text": "I forgot my login for the client portal. Who can help? Looking forward to your reply", "label": "general", "template": 5}
+{"text": "hi team, i want candles, string lights and centrepieces on every table.", "label": "decor", "template": 8}
+{"text": "Hello there, Two guests cannot attend anymore, please update the headcount to 166.", "label": "guests", "template": 12}
+{"text": "Hello, Please cancel our booking and tell me how the refund works. Thanks!", "label": "cancel", "template": 1}
+{"text": "Hello, Do you also organise events outside Dublin? Thanks!", "label": "general", "template": 2}
+{"text": "Dear planner, Can you book a DJ or a live band for the graduation party on New Year's Eve?", "label": "decor", "template": 1}
+{"text": "Hello there, What decoration packages do you have for a corporate retreat with a rustic theme?", "label": "decor", "template": 4}
+{"text": "Good morning, Can we swap the Saturday booking for a Friday evening? Please let me know.", "label": "schedule", "template": 8}
+{"text": "Please change the setup time to the morning of next March.", "label": "schedule", "template": 5}
+{"text": "Good morning, How far in advance should we get in touch to plan a conference? Cheers,", "label": "general", "template": 4}
+{"text": "Hello there, Can we get our deposit back if we call off the team offsite? Thank you.", "label": "cancel", "template": 2}
+{"text": "Hello there, Because of the weather we'd like to postpone to the 3rd of May.", "label": "schedule", "template": 10}
+{"text": "Please cancel our booking and tell me how the refund works. Thanks!", "label": "cancel", "template": 1}
+{"text": "three more guests have confirmed, so we now expect 174 people. please let me know.", "label": "guests", "template": 1}
+{"text": "Dear planner, Is there an indoor backup option if it rains at the venue on June 14?", "label": "venue", "template": 12}
+{"text": "Hello, Which venues in Berlin allow outdoor ceremonies for a conference? Thank you.", "label": "venue", "template": 5}
+{"text": "hi team, do you offer a plated three-course dinner for 389 people? cheers,", "label": "catering", "template": 2}
+{"text": "Hi team, We're looking for a space that can hold 160 guests for our team offsite. What venues do you recommend?", "label": "venue", "template": 1}
+{"text": "Good morning, Can you book a DJ or a live band for the product launch on the 3rd of May", "label": "decor", "template": 1}
+{"text": "hi team, can you help arrange shuttle buses between the hotel and the venue for 121 guests?", "label": "guests", "template": 2}
+{"text": "Hey, How early can we get into the venue to set up for the graduation party? Looking forward to your reply.", "label": "venue", "template": 13}
+{"text": "Hello there, Do you offer a plated three-course dinner for 192 people?", "label": "catering", "template": 2}
+{"text": "Is the garden terrace available on next March, and what is its capacity? Cheers,", "label": "venue", "template": 2}
+{"text": "Dear planner, Do you also organise events outside Dublin? Thank you", "label": "general", "template": 2}
+{"text": "good morning, can we push the start time back by two hours on new year's eve? looking forward to your reply.", "label": "schedule", "template": 1}
+{"text": "Do you have a color scheme suggestion for a navy and gold baby shower?", "label": "decor", "template": 9}
+{"text": "Good morning, Is there an indoor backup option if it rains at the venue on Saturday the 21st?", "label": "venue", "template": 12}
+{"text": "Dear planner, What deposit do you require, and when are payments due?", "label": "quote", "template": 6}
+{"text": "Hey, Can the caterer provide vegetarian and vegan options for the team offsite?", "label": "catering", "template": 1}
+{"text": "Hi, Does the hall include a stage, a projector and Wi-Fi for our anniversary dinner", "label": "venue", "template": 10}
+{"text": "Hi, Can you cancel the DJ and the photographer and refund the fees? Cheers,", "label": "cancel", "template": 10}
+{"text": "Hi, Can you book a DJ or a live band for the wedding on the first weekend of October? Thanks!", "label": "decor", "template": 1}
+{"text": "Hello, I want candles, string lights and centrepieces on every table.", "label": "decor", "template": 8}
+{"text": "Can we tour the venue before booking? We are planning a anniversary dinner in Bangalore", "label": "venue", "template": 4}
+{"text": "Dear planner, Due to an emergency, the baby shower will not go ahead. Please cancel everything. Cheers,", "label": "cancel", "template": 5}
+{"text": "Dear planner, Can you arrange a welcome desk and parking for VIP guests? Thank you.", "label": "guests", "template": 10}
+{"text": "What are your office opening hours? Thanks", "label": "general", "template": 0}
+{"text": "is there an indoor backup option if it rains at the venue on new year's eve? thanks!", "label": "venue", "template": 12}
+{"text": "Good morning, The speakers are delayed, so can we shift the agenda by one day? Please let me know.", "label": "schedule", "template": 2}
+{"text": "Hi, We're looking for a space that can hold 314 guests for our team offsite. What venues do you recommend? Thanks!", "label": "venue", "template": 1}
+{"text": "Can we tour the venue before booking? We are planning a product launch in Austin. Thank you.", "label": "venue", "template": 4}
+{"text": "Hey, Please send a reminder to everyone who hasn't replied yet. Cheers,", "label": "guests", "template": 9}
+{"text": "Hi team, I want candles, string lights and centrepieces on every table.", "label": "decor", "template": 8}
+{"text": "Hello there, The venue needs to be ready a day earlier, can the date be changed?", "label": "schedule", "template": 12}
+{"text": "Is the deposit refundable if the team offsite is called off by the council? Cheers,", "label": "cancel", "template": 13}
+{"text": "Hello, Do you have a brochure or website I can look at? Please let me know.", "label": "general", "template": 6}
+{"text": "Hi, Can we set up a check-in desk and a guest list for arrivals? Cheers,", "label": "guests", "template": 6}
+{"text": "good morning, we need to keep the total under $12,000. can you adjust the proposal? thanks!", "label": "quote", "template": 10}
+{"text": "Hey, Can we push the start time back by two hours on next March?", "label": "schedule", "template": 1}
+{"text": "Hello there, Is there a number I can call on the day of the event? Cheers,", "label": "general", "template": 9}
+{"text": "Hi, Could you send a quote for a product launch with 321 guests in Berlin? Cheers,", "label": "quote", "template": 0}
+{"text": "dear planner, can we get our deposit back if we call off the anniversary dinner? cheers,", "label": "cancel", "template": 2}
+{"text": "Hi team, We want to withdraw from the contract and receive a refund. Cheers,", "label": "cancel", "template": 4}
+{"text": "hi team, is there an indoor backup option if it rains at the venue on the last friday of the month? thanks!", "label": "venue", "template": 12}
+{"text": "Hey, Is the cost of tables and chairs included in your conference price?", "label": "quote", "template": 8}
+{"text": "We're looking for a space that can hold 107 guests for our birthday party. What venues do you recommend?", "label": "venue", "template": 1}
+{"text": "hi, can you book a dj or a live band for the birthday party on june 14? looking forward to your reply.", "label": "decor", "template": 1}
+{"text": "Dear planner, We need to keep the total under $12,000. Can you adjust the proposal?", "label": "quote", "template": 10}
+{"text": "Good morning, Please change the setup time to the morning of 9 November.", "label": "schedule", "template": 5}
+{"text": "Please change the setup time to the morning of 12 December.", "label": "schedule", "template": 5}
+{"text": "Hi, Can you book a DJ or a live band for the anniversary dinner on 12 December? Thanks", "label": "decor", "template": 1}
+{"text": "Hi team, Could you send a quote for a charity gala with 370 guests in Cape Town? Please let me know.", "label": "quote", "template": 0}
+{"text": "Hi team, How far in advance should we get in touch to plan a corporate retreat? Please let me know.", "label": "general", "template": 4}
+{"text": "Dear planner, I'd like to cancel the catering order and get my money back.", "label": "cancel", "template": 6}
+{"text": "Which venues in Bangalore allow outdoor ceremonies for a corporate retreat? Thanks!", "label": "venue", "template": 5}
+{"text": "Dear planner, Please cancel our booking and tell me how the refund works. Cheers,", "label": "cancel", "template": 1}
+{"text": "We need a microphone, a podium and background music during the awards. Thank you.", "label": "decor", "template": 10}
+{"text": "hi team, what beverage packages do you offer, including a bar for the product launch?", "label": "catering", "template": 8}
+{"text": "Good morning, Can you set up a table plan so the families are seated together? Please let me know.", "label": "guests", "template": 13}
+{"text": "Hi team, Please terminate the reservation for 12 December and confirm in writing. Cheers,", "label": "cancel", "template": 8}
+{"text": "The speakers are delayed, so can we shift the agenda by one day? Looking forward to your reply.", "label": "schedule", "template": 2}
+{"text": "I'd like to order canapes and drinks for a cocktail hour for 309 guests. Looking forward to your reply.", "label": "catering", "template": 6}
+{"text": "Dear planner, Does the venue have parking and step-free access for 266 attendees?", "label": "venue", "template": 6}
+{"text": "Good morning, Hi, who is my event coordinator and how can I reach them? Looking forward to your reply.", "label": "general", "template": 1}
+{"text": "hello, can you set up a table plan so the families are seated together? cheers,", "label": "guests", "template": 13}
+{"text": "Hi team, Because of the weather we'd like to postpone to 12 December. Thank you", "label": "schedule", "template": 10}
+{"text": "Do you have a color scheme suggestion for a navy and gold wedding? Thank you.", "label": "decor", "template": 9}
+{"text": "Hello there, Could someone call me back to explain how your service works? Looking forward to your reply.", "label": "general", "template": 10}
+{"text": "Because of the weather we'd like to postpone to late August. Please let me know.", "label": "schedule", "template": 10}
+{"text": "Can you arrange a welcome desk and parking for VIP guests?", "label": "guests", "template": 10}
+{"text": "Hi, Due to an emergency, the charity gala will not go ahead. Please cancel everything. Looking forward to your reply.", "label": "cancel", "template": 5}
+{"text": "Hi, Are there any rooms free on late August for a small birthday party? Looking forward to your reply.", "label": "venue", "template": 9}
+{"text": "Hi team, Due to an emergency, the birthday party will not go ahead. Please cancel everything.", "label": "cancel", "template": 5}
+{"text": "Dear planner, We would like a buffet menu for 358 guests at our product launch. Please let me know.", "label": "catering", "template": 0}
+{"text": "Hi, Can you tell me more about what an event planner actually does? Thank you.", "label": "general", "template": 13}
+{"text": "Dear planner, Is the cost of tables and chairs included in your wedding price? Please let me know.", "label": "quote", "template": 8}
+{"text": "Hello, Please terminate the reservation for the 3rd of May and confirm in writing. Thank you.", "label": "cancel", "template": 8}
+{"text": "Hi team, Are you hiring event staff this season?", "label": "general", "template": 8}
+{"text": "Which venues in Dublin allow outdoor ceremonies for a corporate retreat? Cheers,", "label": "venue", "template": 5}
+{"text": "I'm sorry, but we need to cancel the corporate retreat on 12 December. Looking forward to your reply", "label": "cancel", "template": 0}
+{"text": "Dear planner, Can you book a DJ or a live band for the graduation party on June 14?", "label": "decor", "template": 1}
+{"text": "Hey, Does your quote include service charge and taxes? Please let me know.", "label": "quote", "template": 12}
+{"text": "What are your office opening hours? Please let me know.", "label": "general", "template": 0}
+{"text": "Our budget is around $12,000. What can we get for that? Thank you.", "label": "quote", "template": 1}
+{"text": "Hi team, What decoration packages do you have for a conference with a rustic theme? Please let me know.", "label": "decor", "template": 4}
+{"text": "Dear planner, I need a location near the city centre for a wedding of about 371 people. Please let me know.", "label": "venue", "template": 8}
+{"text": "Hi, Are there any rooms free on the 3rd of May for a small corporate retreat? Cheers,", "label": "venue", "template": 9}
+{"text": "We want to withdraw from the contract and receive a refund. Thanks!", "label": "cancel", "template": 4}
+{"text": "Dear planner, Some guests are flying in on 12 December. Can you book hotel rooms for them?", "label": "guests", "template": 5}
+{"text": "Good morning, We want a floral theme with white roses and greenery for the charity gala. Thank you.", "label": "decor", "template": 0}
+{"text": "Good morning, How early can we get into the venue to set up for the birthday party? Cheers,", "label": "venue", "template": 13}
+{"text": "Good morning, We need a microphone, a podium and background music during the awards. Thank you", "label": "decor", "template": 10}
+{"text": "Hello there, Do you have a venue available for a graduation party on June 14 in Dublin? Thank you.", "label": "venue", "template": 0}
+{"text": "Hi, Do you offer a plated three-course dinner for 311 people? Please let me know.", "label": "catering", "template": 2}
+{"text": "Hi, Can we push the start time back by two hours on next March? Looking forward to your reply.", "label": "schedule", "template": 1}
+{"text": "Good morning, Hi, who is my event coordinator and how can I reach them? Thank you.", "label": "general", "template": 1}
+{"text": "Hi, Is there any flexibility to move our baby shower to next month? Please let me know.", "label": "schedule", "template": 13}
+{"text": "hello there, three more guests have confirmed, so we now expect 299 people.", "label": "guests", "template": 1}
+{"text": "Hi team, Two guests cannot attend anymore, please update the headcount to 385.", "label": "guests", "template": 12}
+{"text": "hi, is there any flexibility to move our baby shower to next month? thank you.", "label": "schedule", "template": 13}
+{"text": "Hey, Can you compare the cheapest and premium options for 101 people? Cheers,", "label": "quote", "template": 9}
+{"text": "Hi, I forgot my login for the client portal. Who can help?", "label": "general", "template": 5}
+{"text": "Hi, Could someone call me back to explain how your service works? Cheers,", "label": "general", "template": 10}
+{"text": "We would like a buffet menu for 31 guests at our wedding.", "label": "catering", "template": 0}
+{"text": "Please cancel our booking and tell me how the refund works.", "label": "cancel", "template": 1}
+{"text": "Dear planner, Please update the schedule: the keynote now starts at 3pm. Cheers,", "label": "schedule", "template": 9}
+{"text": "Hello, We need to keep the total under $12,000. Can you adjust the proposal? Thank you.", "label": "quote", "template": 10}
+{"text": "Hi, Can we get our deposit back if we call off the conference?", "label": "cancel", "template": 2}
+{"text": "Hi, Our company has cancelled the retreat, so I need a refund of the deposit.", "label": "cancel", "template": 9}
+{"text": "Hey, Could you send a quote for a team offsite with 132 guests in Mumbai? Please let me know.", "label": "quote", "template": 0}
+{"text": "Hello, How early can we get into the venue to set up for the birthday party? Thank you.", "label": "venue", "template": 13}
+{"text": "Hey, Could someone call me back to explain how your service works? Looking forward to your reply.", "label": "general", "template": 10}
+{"text": "Hello, We need to keep the total under 10,000 euros. Can you adjust the proposal? Thank you.", "label": "quote", "template": 10}
+{"text": "Hi, Can the caterer provide vegetarian and vegan options for the wedding? Cheers,", "label": "catering", "template": 1}
+{"text": "Dear planner, Do you offer a plated three-course dinner for 340 people? Looking forward to your reply.", "label": "catering", "template": 2}
+{"text": "Dear planner, Please send a reminder to everyone who hasn't replied yet.", "label": "guests", "template": 9}
+{"text": "Dear planner, We need a microphone, a podium and background music during the awards. Thank you.", "label": "decor", "template": 10}
+{"text": "I want candles, string lights and centrepieces on every table. Looking forward to your reply", "label": "decor", "template": 8}
+{"text": "Is there any flexibility to move our birthday party to next month?", "label": "schedule", "template": 13}
+{"text": "Hey, We'd like a price estimate before we sign anything for the team offsite.", "label": "quote", "template": 4}
+{"text": "Hello, We would like a buffet menu for 281 guests at our graduation party. Cheers,", "label": "catering", "template": 0}
+{"text": "could you cater a working lunch for 101 people on 12 december?", "label": "catering", "template": 9}
+{"text": "do you also organise events outside bangalore? please let me know.", "label": "general", "template": 2}
+{"text": "Dear planner, We'd like a price estimate before we sign anything for the wedding.", "label": "quote", "template": 4}
+{"text": "Hey, Does the venue have parking and step-free access for 313 attendees?", "label": "venue", "template": 6}
+{"text": "Hey, Which venues in Dublin allow outdoor ceremonies for a wedding? Thank you.", "label": "venue", "template": 5}
+{"text": "Dear planner, Is a fireworks display or a laser show possible at the end of the night? Thanks!", "label": "decor", "template": 12}
+{"text": "Hello, How far in advance should we get in touch to plan a charity gala? Looking forward to your reply.", "label": "general", "template": 4}
+{"text": "Hey, Is it possible to add a photo booth and balloon arch? Thank you.", "label": "decor", "template": 2}
+{"text": "Can you help arrange shuttle buses between the hotel and the venue for 208 guests? Looking forward to your reply.", "label": "guests", "template": 2}
+{"text": "Hello there, Some guests are flying in on the first weekend of October. Can you book hotel rooms for them?", "label": "guests", "template": 5}
+{"text": "Dear planner, The speakers are delayed, so can we shift the agenda by one day? Looking forward to your reply", "label": "schedule", "template": 2}
+{"text": "Do you have a venue available for a charity gala on 9 November in Seattle? Please let me know.", "label": "venue", "template": 0}
+{"text": "Hello there, Do you have a brochure or website I can look at? Looking forward to your reply", "label": "general", "template": 6}
+{"text": "Hello there, I forgot my login for the client portal. Who can help? Thank you", "label": "general", "template": 5}
+{"text": "Good morning, Can you help arrange shuttle buses between the hotel and the venue for 62 guests? Looking forward to your reply.", "label": "guests", "template": 2}
+{"text": "Hi, Is the garden terrace available on the 3rd of May, and what is its capacity? Thanks!", "label": "venue", "template": 2}
+{"text": "Hello, We need to move the conference from the first weekend of October to a later date. Thanks", "label": "schedule", "template": 0}
+{"text": "Hey, We need breakfast pastries and fruit delivered at 8am on the last Friday of the month. Cheers,", "label": "catering", "template": 12}
+{"text": "Dear planner, We need a microphone, a podium and background music during the awards. Please let me know.", "label": "decor", "template": 10}
+{"text": "Hi team, I'm sorry, but we need to cancel the wedding on late August. Thanks!", "label": "cancel", "template": 0}
+{"text": "How much does a full-service wedding package cost?", "label": "quote", "template": 2}
+{"text": "Hi, Are there any discounts for booking the product launch early or off-season?", "label": "quote", "template": 5}
+{"text": "good morning, what are your office opening hours?", "label": "general", "template": 0}
+{"text": "Dear planner, We want a floral theme with white roses and greenery for the team offsite.", "label": "decor", "template": 0}
+{"text": "Dear planner, Do you also organise events outside Toronto? Thank you.", "label": "general", "template": 2}
+{"text": "Hi team, I'd like to cancel the catering order and get my money back.", "label": "cancel", "template": 6}
+{"text": "Hello there, I'd like to order canapes and drinks for a cocktail hour for 199 guests.", "label": "catering", "template": 6}
+{"text": "Does your quote include service charge and taxes? Thanks!", "label": "quote", "template": 12}
+{"text": "Please prepare name badges and a seating chart for the team offsite.", "label": "guests", "template": 4}
+{"text": "Our company has cancelled the retreat, so I need a refund of the deposit. Thanks!", "label": "cancel", "template": 9}
+{"text": "Good morning, Could you set up a projector and screen for our slideshow and video? Thanks!", "label": "decor", "template": 6}
+{"text": "Hello there, Can you tell me more about what an event planner actually does? Looking forward to your reply.", "label": "general", "template": 13}
+{"text": "Hey, We'd like a magician or a children's entertainer for the afternoon.", "label": "decor", "template": 5}
+{"text": "Dear planner, We want to withdraw from the contract and receive a refund.", "label": "cancel", "template": 4}
+{"text": "Hello, We would like a buffet menu for 329 guests at our birthday party. Please let me know.", "label": "catering", "template": 0}
+{"text": "Good morning, How much does a full-service product launch package cost?", "label": "quote", "template": 2}
+{"text": "Can the caterer provide vegetarian and vegan options for the corporate retreat? Cheers,", "label": "catering", "template": 1}
+{"text": "hi team, two guests cannot attend anymore, please update the headcount to 95. please let me know.", "label": "guests", "template": 12}
+{"text": "Please send a reminder to everyone who hasn't replied yet. Thanks!", "label": "guests", "template": 9}
+{"text": "Hi, Do you have a venue available for a baby shower on 12 December in Berlin?", "label": "venue", "template": 0}
+{"text": "hi, are you hiring event staff this season? looking forward to your reply.", "label": "general", "template": 8}
+{"text": "Hi team, Cancel my booking, please. I was charged twice and want the extra payment returned. Cheers,", "label": "cancel", "template": 12}
+{"text": "Hi, We're looking for a space that can hold 263 guests for our wedding. What venues do you recommend?", "label": "venue", "template": 1}
+{"text": "Hello there, Three more guests have confirmed, so we now expect 355 people.", "label": "guests", "template": 1}
+{"text": "Hey, We'd like a price estimate before we sign anything for the team offsite. Thank you.", "label": "quote", "template": 4}
+{"text": "Hey, Could someone call me back to explain how your service works? Cheers,", "label": "general", "template": 10}
+{"text": "Good morning, Our budget is around $8,500. What can we get for that? Please let me know", "label": "quote", "template": 1}
+{"text": "hi, is the deposit refundable if the birthday party is called off by the council? thank you.", "label": "cancel", "template": 13}
+{"text": "Hello, Due to an emergency, the baby shower will not go ahead. Please cancel everything. Thank you.", "label": "cancel", "template": 5}
+{"text": "Hi team, What is the best way to contact the team outside office hours? Thanks!", "label": "general", "template": 12}
+{"text": "Hi team, Can you cancel the DJ and the photographer and refund the fees?", "label": "cancel", "template": 10}
+{"text": "Can we swap the Saturday booking for a Friday evening?", "label": "schedule", "template": 8}
+{"text": "dear planner, is there any flexibility to move our team offsite to next month? thank you.", "label": "schedule", "template": 13}
+{"text": "Dear planner, Is it possible to add a photo booth and balloon arch? Please let me know.", "label": "decor", "template": 2}
+{"text": "Hello, Will there be a birthday cake service included with the wedding menu? Thank you.", "label": "catering", "template": 13}
+{"text": "Good morning, Several guests have egg allergies. What can the kitchen do? Thanks!", "label": "catering", "template": 4}
+{"text": "Good morning, Could you resend the proposal with updated numbers for 236 guests? Cheers,", "label": "quote", "template": 13}
+{"text": "Hey, What beverage packages do you offer, including a bar for the anniversary dinner? Thank you.", "label": "catering", "template": 8}
+{"text": "Hey, Our dates have changed. Are you free on June 14 instead? Thank you.", "label": "schedule", "template": 4}
+{"text": "Hi team, How early can we get into the venue to set up for the corporate retreat?", "label": "venue", "template": 13}
+{"text": "how many guests can we add after the rsvp deadline? please let me know.", "label": "guests", "template": 8}
+{"text": "Hi, Are there any discounts for booking the birthday party early or off-season? Please let me know.", "label": "quote", "template": 5}
+{"text": "Dear planner, I'm sorry, but we need to cancel the product launch on New Year's Eve", "label": "cancel", "template": 0}
+{"text": "hi, could you cater a working lunch for 282 people on 9 november? looking forward to your reply.", "label": "catering", "template": 9}
+{"text": "dear planner, our dates have changed. are you free on saturday the 21st instead? please let me know.", "label": "schedule", "template": 4}
+{"text": "Hello, Our company has cancelled the retreat, so I need a refund of the deposit. Looking forward to your reply.", "label": "cancel", "template": 9}
+{"text": "Hi team, How many guests can we add after the RSVP deadline?", "label": "guests", "template": 8}
+{"text": "hello there, we want a floral theme with white roses and greenery for the team offsite. looking forward to your reply.", "label": "decor", "template": 0}
+{"text": "hello there, i'd like to order canapes and drinks for a cocktail hour for 61 guests. thank you.", "label": "catering", "template": 6}
+{"text": "good morning, what are your office opening hours? thanks!", "label": "general", "template": 0}
+{"text": "hello, we want a floral theme with white roses and greenery for the wedding. thank you.", "label": "decor", "template": 0}
+{"text": "Hi team, Two guests cannot attend anymore, please update the headcount to 372.", "label": "guests", "template": 12}
+{"text": "Dear planner, Could you set up a projector and screen for our slideshow and video?", "label": "decor", "template": 6}
+{"text": "Hey, Can we swap the Saturday booking for a Friday evening?", "label": "schedule", "template": 8}
+{"text": "Dear planner, Cancel my booking, please. I was charged twice and want the extra payment returned. Looking forward to your reply.", "label": "cancel", "template": 12}
+{"text": "Hello, Our company has cancelled the retreat, so I need a refund of the deposit.", "label": "cancel", "template": 9}
+{"text": "Hi team, The speakers are delayed, so can we shift the agenda by one day? Thank you.", "label": "schedule", "template": 2}
+{"text": "What are your office opening hours? Cheers,", "label": "general", "template": 0}
+{"text": "Some guests are flying in on next March. Can you book hotel rooms for them?", "label": "guests", "template": 5}
+{"text": "Dear planner, Is a fireworks display or a laser show possible at the end of the night? Cheers,", "label": "decor", "template": 12}
+{"text": "Dear planner, Is the garden terrace available on late August, and what is its capacity?", "label": "venue", "template": 2}
+{"text": "hello there, does your quote include service charge and taxes? looking forward to your reply.", "label": "quote", "template": 12}
+{"text": "Hi, Can we set up a check-in desk and a guest list for arrivals? Thank you", "label": "guests", "template": 6}
+{"text": "Hello, Can we extend the baby shower until midnight instead of ending at 10pm? Thank you.", "label": "schedule", "template": 6}
+{"text": "Hello there, Is a fireworks display or a laser show possible at the end of the night? Thank you.", "label": "decor", "template": 12}
+{"text": "hello, does the hall include a stage, a projector and wi-fi for our charity gala?", "label": "venue", "template": 10}
+{"text": "Hi, I'm sorry, but we need to cancel the wedding on the 3rd of May. Thank you.", "label": "cancel", "template": 0}
+{"text": "Good morning, We need to move the corporate retreat from 12 December to a later date. Please let me know.", "label": "schedule", "template": 0}
+{"text": "hello there, hi, who is my event coordinator and how can i reach them? cheers,", "label": "general", "template": 1}
+{"text": "good morning, could you set up a projector and screen for our slideshow and video? please let me know.", "label": "decor", "template": 6}
+{"text": "Dear planner, How many guests can we add after the RSVP deadline?", "label": "guests", "template": 8}
+{"text": "Hi team, How far in advance should we get in touch to plan a corporate retreat?", "label": "general", "template": 4}
+{"text": "Hi, What decoration packages do you have for a team offsite with a rustic theme?", "label": "decor", "template": 4}
+{"text": "hey, please change the setup time to the morning of june 14.", "label": "schedule", "template": 5}
+{"text": "Hello there, Could you resend the proposal with updated numbers for 197 guests? Looking forward to your reply.", "label": "quote", "template": 13}
+{"text": "hello, does the venue have parking and step-free access for 284 attendees?", "label": "venue", "template": 6}
+{"text": "Please change the setup time to the morning of late August. Thank you.", "label": "schedule", "template": 5}
+{"text": "Hi team, Can you tell me more about what an event planner actually does?", "label": "general", "template": 13}
+{"text": "Dear planner, Will there be a birthday cake service included with the corporate retreat menu?", "label": "catering", "template": 13}
+{"text": "Hello there, We'd like a magician or a children's entertainer for the afternoon. Please let me know.", "label": "decor", "template": 5}
+{"text": "Dear planner, The venue needs to be ready a day earlier, can the date be changed? Looking forward to your reply.", "label": "schedule", "template": 12}
+{"text": "hi team, our company has cancelled the retreat, so i need a refund of the deposit. thanks!", "label": "cancel", "template": 9}
+{"text": "Hi, Can you tell me more about what an event planner actually does?", "label": "general", "template": 13}
+{"text": "Please terminate the reservation for Saturday the 21st and confirm in writing. Please let me know.", "label": "cancel", "template": 8}
+{"text": "Dear planner, Does the venue have parking and step-free access for 102 attendees? Please let me know.", "label": "venue", "template": 6}
+{"text": "Dear planner, I'd like to order canapes and drinks for a cocktail hour for 190 guests", "label": "catering", "template": 6}
+{"text": "please send a reminder to everyone who hasn't replied yet. thank you.", "label": "guests", "template": 9}

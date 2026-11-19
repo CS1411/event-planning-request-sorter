@@ -14,7 +14,7 @@ This project creates an "Event Planning Request Sorter" by fine-tuning a GPT-2 m
 
 Tick these off as you go, and commit after each one.
 
-- [ ] **1. Define common event request types and create a small dataset of example requests.**  
+- [x] **1. Define common event request types and create a small dataset of example requests.**  
       Hint: Data preparation: Define categories and create a small, labeled dataset.
 - [ ] **2. Configure GPT-2 with an extended tokenizer and model for custom tokens.**  
       Hint: Tokenizer extension: Add special tokens for your request categories to the GPT-2 tokenizer.
